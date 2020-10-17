@@ -14,6 +14,7 @@ help us build them real quick, too!
 - A Netlify free account
 - A computer with a CLI Tool
 - Your favorite IDE
+- Internet connection!
 
 Also installed globally in your system
 
