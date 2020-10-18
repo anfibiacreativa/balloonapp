@@ -9,7 +9,7 @@ The JAM Stack also introduces a set of best practices,  like, "everything lives 
 should be pre-rendered". JAM Stack sites are fast and performant, and Open Source tools
 help us build them real quick, too!
 
-## Pr-requisites
+## Pre-requisites
 - A Github free account
 - A Netlify free account
 - A computer with a CLI Tool
