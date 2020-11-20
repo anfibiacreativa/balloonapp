@@ -29,11 +29,17 @@ You will be using the CLI to install dependencies, and will connect to the inter
 download data, so make sure you are able to by having admin permissions, and a
 good connection to the internet!
 
+## Some Images urls
+
+https://res.cloudinary.com/anfibiacreativa/image/upload/v1602246561/wintechseries/jane1_znl594.jpg
+https://res.cloudinary.com/anfibiacreativa/image/upload/v1602246561/wintechseries/jane3_jcji4h.jpg
+https://res.cloudinary.com/anfibiacreativa/image/upload/v1602246558/wintechseries/jane6_fyr7d6.jpg
+https://res.cloudinary.com/anfibiacreativa/image/upload/v1602246556/wintechseries/jane10_nnqvkt.jpg
+https://res.cloudinary.com/anfibiacreativa/image/upload/v1602246555/wintechseries/jane7_vms5up.jpg
 
 # Balloonapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
-
 
 
 ## Development server
